@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+StreamFlix is my personal project aimed at mastering React while building a streaming website from scratch. 
+
 ## Getting Started
 
 First, run the development server:
